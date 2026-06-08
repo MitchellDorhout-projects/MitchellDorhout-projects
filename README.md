@@ -3,7 +3,7 @@ Hi there 👋
 I grew up obsessed with playing and watching sports, and I've been playing fantasy sports for as long as I can remember. Advanced analytics and modeling have always been my edge in the leagues I play in.
 So far I've used Python to build two fully automated, working analytical models — and I've genuinely enjoyed the learning process along the way. This is just the start, and I'm only going to get better from here.
 A little about me: I recently graduated with a background in sports business at Arizona State Unversity, and I've spent the last few years in sales and customer-facing roles where I learned how to work under pressure, sweat the details, and actually communicate with people. That business side shapes how I think about data — I care less about a number on its own and more about what it means for a decision. Right now I'm focused on bringing both halves together and building a career in sports analytics.
-📫 https://www.linkedin.com/in/mitchell-dorhout-1b1216319/ · Email Mitchell.Dorhout@gmai.com
+📫 https://www.linkedin.com/in/mitchell-dorhout-1b1216319/ · Email Mitchell.Dorhout@gmail.com
 <!--
 **MitchellDorhout-projects/MitchellDorhout-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
