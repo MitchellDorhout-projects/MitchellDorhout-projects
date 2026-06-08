@@ -1,5 +1,4 @@
 ## Hi there 👋
-Hi there 👋
 I grew up obsessed with playing and watching sports, and I've been playing fantasy sports for as long as I can remember. Advanced analytics and modeling have always been my edge in the leagues I play in.
 
 So far I've used Python to build two fully automated, working analytical models — and I've genuinely enjoyed the learning process along the way. This is just the start, and I'm only going to get better from here.
