@@ -1,9 +1,7 @@
 ## Hi there 👋
-I grew up obsessed with playing and watching sports, and I've been playing fantasy sports for as long as I can remember. Advanced analytics and modeling have always been my edge in the leagues I play in.
+I grew up obsessed with playing and watching all types of sports. I have been playing fantasy sports for as long as I can remember. Using advanced analytics and modeling have always been my edge in the leagues I play in. Lately, I have been using AI and Python to build two fully automated, working analytical models — and I genuinely enjoy the learning process using code and analytics. This is just the start, and I am only going to get better as I continue to apply my knowledge and subjective feel for various sports, teams or players I am analyzing.
 
-So far I've used Python to build two fully automated, working analytical models — and I've genuinely enjoyed the learning process along the way. This is just the start, and I'm only going to get better from here.
-
-I recently graduated with a background in sports business at Arizona State Unversity, and I've spent the last few years in sales and customer-facing roles where I learned how to work under pressure, sweat the details, and actually communicate with people. That business side shapes how I think about data — I care less about a number on its own and more about what it means for a decision. Right now I'm focused on bringing both halves together and building a career in sports analytics.
+I recently graduated with a background in sports business at Arizona State University, and I spent the last few years in sales and customer-facing roles where I learned how to work under pressure, sweat the details, and actually communicate with people face to face. I have charisma that cannot be beat. That business side shapes how I think about data — I care less about a number on its own and more about what it means for a decision. Right now, I am focused on bringing both pieces together and building a career in sports analytics.
 📫 https://www.linkedin.com/in/mitchell-dorhout-1b1216319/ · Email Mitchell.Dorhout@gmail.com
 <!--
 **MitchellDorhout-projects/MitchellDorhout-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
